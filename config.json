@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersrocess",
+        "uuid": 8471535,
+        "checksum": "jvp2om"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
